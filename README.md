@@ -4,7 +4,7 @@
 
 ![Alt Text - "Will you find the secret code?" The opening line of the game](./screenshots/Screenshot_1.png)
 
-**A text-based game written in C that takes user input and evaluates it against a declared/randomly generated secret code.** 
+A text-based game written in C that takes user input and evaluates it against a declared/randomly generated secret code.
 
 **If the player finds the code, they win, and the game stops.**
 
