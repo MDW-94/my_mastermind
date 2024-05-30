@@ -32,7 +32,9 @@ Based of the classic code-breaking game Mastermind, the goal is to guess the fou
 
 As part of the Elite software Engineering track through Qwasar, Contemporary School of Engineering I was assigned the task of recreating the famous Mastermind game using C.
 
-The assignment required me to create a Makefile which would handle all the compilation processes of the program, including cleanup (clean/fclean (full-clean)). 
+The assignment required me to create a Makefile which would handle all the compilation processes of the program, including cleanup (clean/fclean (full-clean)).
+
+<hr/>
 
 #### &#9989; **- I was allowed to use only specific functions within certain header file libraries, these include:**
 
@@ -47,6 +49,8 @@ The assignment required me to create a Makefile which would handle all the compi
 *It was a requirement that read() be set to read in only one char data type at a time: read(0,&ch,1)*
 
 #### &#10060; **- I was not allowed to use any other functions/syscalls, this included exit**
+
+<hr/>
 
 ### Further Requirements:
 - The program handles a standard *Ctrl + d* (EOF/End Of File) sequence
