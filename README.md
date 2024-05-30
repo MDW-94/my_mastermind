@@ -5,18 +5,16 @@
 ![Alt Text - "Will you find the secret code?" The opening line of the game](./screenshots/Screenshot_1.png)
 
 **A text-based game written in C that takes user input and evaluates it against a declared/randomly generated secret code.** 
-  
-Based of the classic code-breaking game Mastermind, the goal is to guess the four integer secret code within 10 or a designated number of rounds. If a valid guess isn't correct then feedback will be provided - 'well placed' integers are ones that are correct in value and position, 'misplaced' integers are ones that are correct in value but inocrrect in position.
 
 **If the player finds the code, they win, and the game stops.**
 
->The game runs in the terminal,  
+![Alt Text - A screenshot of the game running, specifically the text prompts in the terminal](./screenshots/Screenshot_2.png)
+  
+  >The game runs in the terminal,  
 >recieving input through STDIN (the keyboard).  
 >Ctrl + d (^d) has been implemented  
 >to end the program when the player wants.
 
-![Alt Text - A screenshot of the game running, specifically the text prompts in the terminal](./screenshots/Screenshot_2.png)
-  
 </div>
 
 
@@ -30,6 +28,8 @@ Based of the classic code-breaking game Mastermind, the goal is to guess the fou
 - [Key Features || Code Breakdown](#key-features-code-breakdown)
 
 ## Task
+Based of the classic code-breaking game Mastermind, the goal is to guess the four integer secret code within 10 or a designated number of rounds. If a valid guess isn't correct then feedback will be provided - 'well placed' integers are ones that are correct in value and position, 'misplaced' integers are ones that are correct in value but inocrrect in position.
+
 As part of the Elite software Engineering track through Qwasar, Contemporary School of Engineering I was assigned the task of recreating the famous Mastermind game using C.
 
 The assignment required me to create a Makefile which would handle all the compilation processes of the program, including cleanup (clean/fclean (full-clean)). 
