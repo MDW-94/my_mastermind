@@ -1,6 +1,6 @@
 # <h1 align="center" >&#128290; my_mastermind.c &#128290;</h1>
 
-<div align="center">
+<div align="center" background="black">
 
 ![Alt Text - "Will you find the secret code?" The opening line of the game](./screenshots/Screenshot_1.png)
 
